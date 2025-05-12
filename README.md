@@ -1,12 +1,12 @@
 ![Logo Aplikasi](./assets/images/logo.png)
 
-Blogin App: Platform Blogging Mobile
+**Blogin App**: Platform Blogging Mobile
 Blogin App adalah platform aplikasi mobile yang dibangun dengan Flutter, 
 dirancang untuk memudahkan pengguna membuat, berbagi, dan menikmati konten blog. 
 Aplikasi ini memanfaatkan penyimpanan lokal yang efisien dengan Hive, memungkinkan pengalaman yang 
 cepat dan responsif.
 
-Fitur Utama
+**Fitur Utama**
 
 • Buat Postingan Blog: Pengguna dapat dengan mudah membuat postingan blog yang kaya 
 dengan judul, gambar, dan konten yang menarik.
@@ -26,7 +26,7 @@ pembaca menemukan konten yang relevan.
 
 • Navigasi Intuitif: Pengalaman pengguna yang mulus dengan navigasi yang jelas dan mudah digunakan.
 
-Teknologi yang Digunakan
+**Teknologi yang Digunakan**
 Aplikasi Blogin dibangun dengan stack teknologi berikut:
 
 • Flutter: Kerangka kerja UI lintas platform untuk membangun aplikasi mobile yang indah dan berkinerja tinggi.
@@ -41,7 +41,7 @@ Aplikasi Blogin dibangun dengan stack teknologi berikut:
 
 • Image Picker: Untuk memilih gambar dari galeri atau kamera perangkat.
 
-Alur Aplikasi
+**Alur Aplikasi**
 Berikut adalah alur utama aplikasi Blogin:
 
 1. Input Email: Pengguna memulai dengan memasukkan alamat email mereka untuk autentikasi.
@@ -66,7 +66,7 @@ Cara Menjalankan Aplikasi
 
 4. Jalankan flutter run untuk membangun dan menjalankan aplikasi di perangkat Anda.
 
-Kontribusi
+**Kontribusi**
 Kami menyambut kontribusi dari pengembang lain untuk membuat Blogin App menjadi platform yang lebih baik. 
 Jika Anda tertarik untuk berkontribusi, silakan ikuti langkah-langkah berikut:
 
