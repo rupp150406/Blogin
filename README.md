@@ -6,25 +6,19 @@ dirancang untuk memudahkan pengguna membuat, berbagi, dan menikmati konten blog.
 Aplikasi ini memanfaatkan penyimpanan lokal yang efisien dengan Hive, memungkinkan pengalaman yang 
 cepat dan responsif.
 
-**Fitur Utama**
+## Fitur Utama
 
-• Buat Postingan Blog: Pengguna dapat dengan mudah membuat postingan blog yang kaya 
+- Buat Postingan Blog: Pengguna dapat dengan mudah membuat postingan blog yang kaya 
 dengan judul, gambar, dan konten yang menarik.
-
-• Penyimpanan Lokal dengan Hive: Data blog disimpan secara lokal menggunakan Hive, 
+- Penyimpanan Lokal dengan Hive: Data blog disimpan secara lokal menggunakan Hive, 
 memastikan ketersediaan konten bahkan dalam keadaan offline.
-
-• Kategorisasi Blog: Pengguna dapat mengkategorikan postingan mereka, membantu 
+- Kategorisasi Blog: Pengguna dapat mengkategorikan postingan mereka, membantu 
 pembaca menemukan konten yang relevan.
-
-• Opsi Publikasi Fleksibel: Pengguna dapat memilih untuk langsung mempublikasikan blog
+- Opsi Publikasi Fleksibel: Pengguna dapat memilih untuk langsung mempublikasikan blog
  mereka atau menyimpannya sebagai draf untuk diedit nanti.
-
-• Manajemen Profil Pengguna: Pengguna dapat mengelola informasi profil mereka.
-
-• Autentikasi Pengguna: Proses masuk dan pendaftaran yang aman menggunakan verifikasi email.
-
-• Navigasi Intuitif: Pengalaman pengguna yang mulus dengan navigasi yang jelas dan mudah digunakan.
+- Manajemen Profil Pengguna: Pengguna dapat mengelola informasi profil mereka.
+- Autentikasi Pengguna: Proses masuk dan pendaftaran yang aman menggunakan verifikasi email.
+- Navigasi Intuitif: Pengalaman pengguna yang mulus dengan navigasi yang jelas dan mudah digunakan.
 
 **Teknologi yang Digunakan**
 Aplikasi Blogin dibangun dengan stack teknologi berikut:
