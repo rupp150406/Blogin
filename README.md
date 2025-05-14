@@ -40,7 +40,7 @@ Berikut adalah alur utama aplikasi Blogin:
 5. Opsi Publikasi: Pengguna memilih apakah akan mempublikasikan postingan atau menyimpannya.
 6. Profil Pengguna: Pengguna dapat melihat dan mengelola profil mereka.
 
-Cara Menjalankan Aplikasi
+**Cara Menjalankan Aplikasi**
 
 1. Clone repositori ini ke komputer lokal Anda.
 2. Pastikan Anda telah menginstal Flutter SDK.
